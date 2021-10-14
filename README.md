@@ -6,7 +6,7 @@ A estrutura de pastas esta organizado da seguinte forma:
 
 Na pasta Bootcamps, terá os Bootcamps que participo ou participei.
 
-# Bootcamps Eduzz
+# Bootcamp Eduzz
 
 <ul>
   <li>HTML e CSS</li>
